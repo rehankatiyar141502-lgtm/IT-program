@@ -1,0 +1,10 @@
+#para1 {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+#para2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: darkred;
+}

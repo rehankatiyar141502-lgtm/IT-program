@@ -1,0 +1,16 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    font-style: oblique;
+  
+}
+
+p {
+    color: rgb(255, 89, 0);
+    background-color: rgb(255, 255, 0);
+    font-family: 'Times New Roman', serif;
+    
+    font-style: italic;
+    
+}
